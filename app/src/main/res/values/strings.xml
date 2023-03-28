@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Areas</string>
+    <string-array name="shapes">
+        <item>Rectangle</item>
+        <item>Circle</item>
+        <item>Triangle</item>
+    </string-array>
+</resources>
